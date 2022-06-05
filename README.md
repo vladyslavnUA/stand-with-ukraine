@@ -7,26 +7,6 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-<!-- [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url] -->
-
-
-
-<!-- LOGO -->
 <br />
 <div align="center">
   <a href="https://www.standwithukraine.dev">
@@ -50,9 +30,6 @@
   </p>
 </div>
 
-
-
-<!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -73,12 +50,8 @@
   </ol>
 </details>
 
-
-
-<!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<!-- [![][product-screenshot]](webs.png) -->
 <div align="center">
   <a href="https://www.standwithukraine.dev">
     <img src="src/webs.png" class="this" alt="Stand With Ukraine" style="width: 60%;">
@@ -93,7 +66,6 @@ This support for Ukraine widget was built to be implemented in 2 steps, which ca
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
 ## Getting Started
 
 Follow the steps below to add this widget to your website, or page of your choosing.
@@ -123,7 +95,6 @@ _Below is an example of how you can install this widget on your website. The wid
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-<!-- LICENSE -->
 ## License
 
 Distributed under the GNU GPLv3 License. See `LICENSE.txt` or https://choosealicense.com/licenses/gpl-3.0/ for more information. 
@@ -131,36 +102,11 @@ Available for open-source, making available complete source code of licensed wor
 
 <!-- <p align="right">(<a href="#top">back to top</a>)</p> -->
 
-
-
-<!-- CONTACT -->
 ## Contact
 
-Vladyslav - vladyslavn@yahoo.com
+Vladyslav - vladyslavn@yahoo.com 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS
-## Acknowledgments
-
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
- -->
-
-
 
 <!-- MARKDOWN LINKS & IMAGES 
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links 
@@ -176,8 +122,6 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
-
--->
+[product-screenshot]: images/screenshot.png -->
 
 <!-- thank you to https://github.com/othneildrew/Best-README-Template/blob/master/README.md for the readme template -->
