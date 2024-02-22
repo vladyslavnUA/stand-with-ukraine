@@ -86,7 +86,7 @@ _Below is an example of how you can install this widget on your website. The wid
    <!-- Support for Ukraine widget -->
     <div id="ukraine"></div>
 
-    <script src="https://cdn.jsdelivr.net/gh/vladyslavnUA/stand-with-ukraine@main/src/script.v1.1.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/vladyslavnUA/stand-with-ukraine@main/src/script.v1.2.js"></script>
    <!-- end widget tag -->
 
    ```
